@@ -1,0 +1,281 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><style>
+  p,td,th,div,span{
+  font-size: 8pt;
+  font-family: "Arial", Tahoma, Verdana, "Times New Roman", Times, serif;       
+}
+p{
+    font-size: 10pt;
+}
+.items td{
+    border-bottom: 1px solid #efefef;
+}
+th,td{
+    text-align: left;
+    vertical-align: top;
+}
+.rw td{
+    background-color: #efefef;
+}
+th.rw,td.rw{
+    background-color: #efefef;
+}
+.borders th,
+.borders td{
+    border: 1px solid #000;    
+}
+.border th{
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+.border_bottom th{      
+    border-bottom: 1px solid #000;
+}
+.noborder th,
+.noborder td{
+    border: 0;
+}
+.left{
+    text-align: left;
+}
+.text-left{
+    text-align: left !important;
+}
+.center{
+    text-align: center;    
+}
+.text-center{
+    text-align: center !important;
+}
+.right{
+    text-align: right;
+}
+.text-right{
+    text-align: right !important;
+}
+
+
+.items_table{
+    width: 100%;
+}
+.items_table th,
+.items_table td{
+    text-align: left;
+    vertical-align: top;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 11px;
+}
+.items_table th.right,
+.items_table td.right{
+	text-align: right;
+}
+
+.items_table th{
+    font-weight: bold;
+}
+.items_table .item th,
+.items_table .item td{
+    border-bottom: 1px solid #efefef;
+}
+
+.items_table .border th,
+.items_table .border td{
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+}
+.items_table .border_top th,
+.items_table .border_top td{    
+    border-top: 1px solid #000;
+}
+.items_table .border_bottom th,
+.items_table .border_bottom td{
+    border-bottom: 1px solid #000;    
+}</style>
+<table width="100%"  border="0" align="center" cellspacing="0" cellpadding="2" class="items_table">          
+    
+      <tr class="items_table_header">
+      <td colspan="9"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td valign="middle" align="left"><strong>SLAVONIJA</strong><br />Vukovarska 100, 31000 Osijek<br />OIB: 31127952678<br />Tel: +385 31 248 043, Mob: +385 95 905 75 31<br />E-mail: info@matrixrealestate.hr, Web: www.matrix-slavonija.hr</td><td valign="middle" align="right" style="text-align: right;"><img src="https://storage.nekretnine1.hr/sites/4350/upload/1745941764_551x233.jpg" style="" /></td></tr></table><br /><br /></td>
+  </tr>          
+    <tr class="items_table_title">
+      <th colspan="9" align="center" style="text-align: center">Moguća kupnja</th>
+    </tr>
+          
+    
+    
+            
+        <tr><th colspan="9">&nbsp;</th></tr>  
+        
+        <tr>                 
+            <th colspan="9">Ponuda nije poslana            
+                            - <a href="javascript:void(0)" onclick="offer('send');" style="white-space: nowrap">Pošalji ponudu</a> | 
+                <a href="javascript:void(0)" onclick="offer('prepare');" style="white-space: nowrap">Pripremi razgledavanje</a> |
+                <a href="javascript:void(0)" onclick="offer('print');" style="white-space: nowrap">Ispiši (ponuda)</a>
+                                | <a href="javascript:void(0)" onclick="offer('not_interested');" style="white-space: nowrap">Nije zainteresiran</a>
+                                        </th>
+        </tr>
+        
+        
+        <tr><th colspan="9">&nbsp;</th></tr>  
+    
+    
+    
+    
+    
+    
+    
+    <tr class="border_bottom">
+                <th>Naslov</th>
+        <th>Kod</th>
+        <th>Vrsta</th>
+        <th>Lokacija</th>
+        <th>Površina</th>
+        <th>Sobe</th>
+        <th>Cijena</th>
+        
+                <th>Agent</th>                     
+        <th>Traži</th>        
+               
+    </tr>
+    
+     
+                <tr class="item">           
+                        <td>Stan u suterenu s garažom i...</td>
+            <td>ID0K093</td>
+            <td>Stan</td>
+            <td>Osijek - Osijek</td>                
+            <td>67 m²</td>                
+            <td>4</td>                
+            <td>130.000€</td>                
+            
+                        <td>Krunoslav Pucek, Matrix  Ured Slavonija</td>                
+            <td>za prodaju, Stan, Osječko-baranjska županija, Osijek, do 255.200€, od 55 m², spavaće sobe (od) 2</td>                       
+                        
+        </tr>
+                <tr class="item">           
+                        <td>Osijek okolica, prizemni...</td>
+            <td>ID0K090</td>
+            <td>Stan</td>
+            <td>Osijek - Osijek</td>                
+            <td>80 m²</td>                
+            <td>3</td>                
+            <td>218.000€</td>                
+            
+                        <td>Krunoslav Pucek, Matrix  Ured Slavonija</td>                
+            <td>za prodaju, Stan, Osječko-baranjska županija, Osijek, do 255.200€, od 55 m², spavaće sobe (od) 2</td>                       
+                        
+        </tr>
+                <tr class="item">           
+                        <td>Osijek, trosobni 59 m², 2...</td>
+            <td>ID0K071</td>
+            <td>Stan</td>
+            <td>Osijek - Osijek</td>                
+            <td>59 m²</td>                
+            <td>3</td>                
+            <td>220.000€</td>                
+            
+                        <td>Krunoslav Pucek, Matrix  Ured Slavonija</td>                
+            <td>za prodaju, Stan, Osječko-baranjska županija, Osijek, do 255.200€, od 55 m², spavaće sobe (od) 2</td>                       
+                        
+        </tr>
+                <tr class="item">           
+                        <td>Osijek, prostran stan 79m²...</td>
+            <td>ID0S032</td>
+            <td>Stan</td>
+            <td>Osijek - Osijek</td>                
+            <td>79,53 m²</td>                
+            <td>3</td>                
+            <td>198.000€</td>                
+            
+                        <td>Matrix  Ured Slavonija, Siniša  Plivelić</td>                
+            <td>za prodaju, Stan, Osječko-baranjska županija, Osijek, do 255.200€, od 55 m², spavaće sobe (od) 2</td>                       
+                        
+        </tr>
+                <tr class="item">           
+                        <td>Osijek, Dva stana u širem...</td>
+            <td>ID0K062</td>
+            <td>Stan</td>
+            <td>Osijek - Osijek</td>                
+            <td>97 m²</td>                
+            <td>5</td>                
+            <td>189.000€</td>                
+            
+                        <td>Krunoslav Pucek, Matrix  Ured Slavonija</td>                
+            <td>za prodaju, Stan, Osječko-baranjska županija, Osijek, do 255.200€, od 55 m², spavaće sobe (od) 2</td>                       
+                        
+        </tr>
+                  
+          
+          
+
+        <tr class="border">
+            <th colspan="8">UKUPNO</th>
+            <th class="text-right">5</th>
+        </tr>
+    
+                </table>
+        <table width="100%"  border="0" align="center" cellspacing="0" cellpadding="2" class="items_table">     
+                
+        
+        <tr><th colspan="9">&nbsp;</th></tr>  
+        
+        <tr>                 
+            <th colspan="9">Ponuda je poslana            
+                            - <a href="javascript:void(0)" onclick="offer('send');" style="white-space: nowrap">Pošalji ponudu</a> | 
+                <a href="javascript:void(0)" onclick="offer('prepare');" style="white-space: nowrap">Pripremi razgledavanje</a> |
+                <a href="javascript:void(0)" onclick="offer('print');" style="white-space: nowrap">Ispiši (ponuda)</a>
+                                        </th>
+        </tr>
+        
+        
+        <tr><th colspan="9">&nbsp;</th></tr>  
+    
+    
+    
+    
+    
+    
+    
+    <tr class="border_bottom">
+                <th>Naslov</th>
+        <th>Kod</th>
+        <th>Vrsta</th>
+        <th>Lokacija</th>
+        <th>Površina</th>
+        <th>Sobe</th>
+        <th>Cijena</th>
+        
+                <th>Poslao je</th>
+        <th>Datum slanja</th>
+               
+    </tr>
+    
+     
+                <tr class="item">           
+                        <td>Osijek, Trosobni stan s...</td>
+            <td>ID0K095</td>
+            <td>Stan</td>
+            <td>Osijek - Osijek</td>                
+            <td>70 m²</td>                
+            <td>3</td>                
+            <td>232.000€</td>                
+            
+                        <td>Krunoslav Pucek</td>            
+            <td>31.03.2026</td>                                      
+                        
+        </tr>
+                  
+          
+          
+
+        <tr class="border">
+            <th colspan="8">UKUPNO</th>
+            <th class="text-right">1</th>
+        </tr>
+    
+                
+          
+        
+      
+        
+</table>
+</body></html>
