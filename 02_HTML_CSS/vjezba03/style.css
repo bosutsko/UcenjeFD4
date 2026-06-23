@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 30px 15px;
+    background-color: #ecf0f1;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+}
+
+.container{
+
+    width: 90%;
+    max-width: 600px;
+
+    margin: 0 auto;
+
+    padding: 50px 30px 30px;
+    background-color: white;
+
+    border-radius: 6px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+.slika {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.opis-slike {
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+}
+
+pre {
+    background-color: #333;
+    color: #f5f5f5;
+    padding: 15px;
+}
