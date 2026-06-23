@@ -71,6 +71,25 @@ mark {
     padding: 15px;
 }
 
+.pojmovi {
+    background-color: #eeeeee;
+    padding: 15px;
+}
+
+.pojmovi p {
+    margin: 0 0 12px;
+}
+
+.pojmovi p:last-child {
+    margin-bottom: 0;
+}
+
+.kratica {
+    color: #3498db;
+    font-weight: bold;
+    font-style: italic;
+}
+
 
 pre {
     background-color: #333;
