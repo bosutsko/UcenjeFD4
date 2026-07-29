@@ -116,7 +116,7 @@ document.getElementById('izvedi').addEventListener('click', () => {
           }
         }
 
-        rezultat.innerHTML = palindrom ? 'PALINDROM JE' : 'NIJE PALINDROM'
+        rezultat.innerHTML = palindrom ? 'PALINDROM JE' : 'NIJEPALINDROM'
         
 
       // kraj rješavanje 4. zadatak
